@@ -9,4 +9,4 @@ mauer9/mauer9 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
  
- ![Codewars](https://github.r2v.ch/codewars?user=USERNAME)
+ ![Codewars](https://github.r2v.ch/codewars?user=mauer)
