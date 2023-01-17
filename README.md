@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
  
  ![Codewars](https://github.r2v.ch/codewars?user=mauer)
+ ![Codewars](https://www.codewars.com/users/jhoffner/badges/large)
 
 
-<a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/markusende/badges/large" alt="codewars badge large" /></a>
+<a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/mauer/badges/large" alt="codewars badge large" /></a>
