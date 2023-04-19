@@ -10,7 +10,3 @@ You can click the Preview link to take a look at your changes.
 --->
  
 ![Codewars](https://www.codewars.com/users/mauer/badges/large)
-
-Ideas for projects:
-- Whatsapp-like app
-- Online excel sheet editor
